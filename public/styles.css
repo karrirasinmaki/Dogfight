@@ -1,0 +1,60 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	font-family: monospace;
+	background: #72A3DB;
+
+	width: 100%;
+	height: 100%;
+
+	cursor: crosshair !important;
+}
+
+#chat {
+	position: absolute;
+	margin: 5px;
+	right: 0;
+	bottom: 0;
+	width: 100%;
+	color: #ffffff;
+	text-align: right;
+}
+#msgbox {
+	height: 1em;
+}
+#chat form {
+	position: fixed;
+	top: -1000px;
+}
+#chat i {
+	color: #bfbfbf;
+}
+#messages {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+	right: 0;
+}
+#messages_wrapper {
+	position: relative;
+	overflow: hidden;
+	height: 10em;
+	-webkit-mask:  -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(40%,rgba(0,0,0,1)));
+}
+
+#players {
+	position: absolute;
+	overflow: hidden;
+	color: white;
+	left: 0;
+	top: 0;
+	width: 100px;
+	height: 100%;
+	padding-top: 5px;
+	background: rgba(0,0,0,0.3);
+}
+.player {
+	overflow: hidden;
+	margin: 5px;
+}

@@ -1,0 +1,661 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newClientJoined"
+			],
+			[
+				"pr",
+				"preventDefault"
+			],
+			[
+				"pu",
+				"puffObj"
+			],
+			[
+				"check",
+				"checkClients"
+			],
+			[
+				"spa",
+				"sparkle"
+			],
+			[
+				"pla",
+				"plane"
+			],
+			[
+				"bullet",
+				"bulletPower"
+			],
+			[
+				"plane",
+				"planeObj"
+			],
+			[
+				"sha",
+				"shadowBlur"
+			],
+			[
+				"shadow",
+				"shadowColor"
+			],
+			[
+				"draw",
+				"drawPuff"
+			],
+			[
+				"fil",
+				"fillRect"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"cl",
+				"closePath"
+			],
+			[
+				"sc",
+				"sqrt  (function)"
+			],
+			[
+				"tran",
+				"translate  (function)"
+			],
+			[
+				"line",
+				"lineWidth"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"shoot",
+				"shootflash"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"st",
+				"stroke"
+			],
+			[
+				"sto",
+				"strokeStyle"
+			],
+			[
+				"move",
+				"moveTo"
+			],
+			[
+				"dead",
+				"deadContext"
+			],
+			[
+				"dea",
+				"deadContext"
+			],
+			[
+				"ma",
+				"maxSpreads  (variable)"
+			],
+			[
+				"sp",
+				"spreadSomeMore  (function)"
+			],
+			[
+				"Spre",
+				"Spreads  (variable)"
+			],
+			[
+				"get",
+				"getContext"
+			],
+			[
+				"s",
+				"shadowBlur  (variable)"
+			],
+			[
+				"spre",
+				"Spreads  (variable)"
+			],
+			[
+				"r",
+				"rotate  (function)"
+			],
+			[
+				"p",
+				"push  (function)"
+			],
+			[
+				"b",
+				"bezierCurveTo  (function)"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"we",
+				"webkit-scrollbar"
+			],
+			[
+				"hide",
+				"hideShowroom"
+			],
+			[
+				"webkit-tran",
+				"-webkit-transition:   (property)"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"active",
+				"activeId"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"ac",
+				"activeId"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"scrol",
+				"scrollTop"
+			],
+			[
+				"scroll",
+				"scrollScreen"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"webkit-tra",
+				"-webkit-transition:   (property)"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"sli",
+				"sliding  (variable)"
+			],
+			[
+				"eq",
+				"equalScroll"
+			],
+			[
+				"e",
+				"equalScroll"
+			],
+			[
+				"webkit",
+				"-webkit-transition:   (property)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"scr",
+				"scrollLeft"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1231,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1019,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/mustinit.js",
+			"settings":
+			{
+				"buffer_size": 637,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/main.js",
+			"settings":
+			{
+				"buffer_size": 12742,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "public/styles.css",
+			"settings":
+			{
+				"buffer_size": 877,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 536.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/dev/eracing – Kopio/public/index.html",
+		"/C/dev/eracing – Kopio/public/styles.css",
+		"/C/dev/eracing – Kopio/public/main.js",
+		"/C/dev/eracing/public/controller.html",
+		"/C/dev/eracing/index.html",
+		"/C/dev/eracing/public/index.html",
+		"/C/dev/app.js",
+		"/C/dev/eracing/public/formula.js",
+		"/C/Users/asus/inkscape/rata1.svg",
+		"/C/Users/asus/inkscape/formula.svg",
+		"/C/dev/d/assets/js/script.js",
+		"/C/dev/d/app.js",
+		"/C/dev/eracing/styles.css",
+		"/C/dev/d/index.html",
+		"/C/Users/asus/www/foggywindow/styles.css",
+		"/C/Users/asus/www/foggywindow/index.html",
+		"/C/Users/asus/www/tea/styles.css",
+		"/C/Users/asus/www/tea/MakeSomeTea.js",
+		"/C/Users/asus/www/tea/index.html",
+		"/C/Users/asus/www/blank/index.html",
+		"/C/Users/asus/www/cv2/index.html",
+		"/C/Users/asus/www/cv/index.html",
+		"/C/Users/asus/www/cv/styles.css",
+		"/C/Users/asus/www/site/index.html",
+		"/C/Users/asus/www/site/styles.css",
+		"/C/Users/asus/www/three/index.html",
+		"/C/Users/asus/www/site/index.html.txt",
+		"/C/Users/asus/www/site/styles.css.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"	r = Tea.r;\n	width = 300;\n	height = 300;\n\n	Tea.Fluid = {\n		width: width, height: height,\n		b: //Bezier curve handles\n			[ //firstX, firstY, secondX, secondY, endX, endY\n			r(width/2), r(height/3), width/2+r(width/2), r(height/3), width+r(width/3), r(height/3), //top\n			width+r(width/3), r(height/2), width+r(width/3), height/2+r(height/3), width+r(width/3), height+r(100), //right\n			width+r(width/2), height+r(height/3), r(width/2), height+r(height/3), r(width/2), height+r(100), //bottom\n			r(100), height+r(height/2), r(10), r(height/2), 0,0, //left\n			]\n	};",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"explode",
+			"exlode",
+			"explode",
+			"\"msg\"",
+			"bullet c",
+			"bulletColl",
+			"drawPla",
+			"planeLogi",
+			"myid >",
+			"id",
+			"bullet.id",
+			"drawBullet",
+			"new bulle",
+			"drawBullet",
+			";\n",
+			"plane[0]",
+			"new plane",
+			"plane",
+			"fish",
+			"fishes",
+			"rsr",
+			"formula",
+			"path",
+			"rsr",
+			"socket.on",
+			"power",
+			"Tea.power",
+			"Tea.colors",
+			"height",
+			"width",
+			"content",
+			"Vector"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"plane[id]",
+			"planeObj",
+			"plane",
+			"formula",
+			"paper",
+			"formula",
+			"h",
+			"w"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1231,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								888,
+								888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 450.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 1019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								207,
+								207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/mustinit.js",
+					"settings":
+					{
+						"buffer_size": 637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "public/main.js",
+					"settings":
+					{
+						"buffer_size": 12742,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3005,
+								3005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2189.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/styles.css",
+					"settings":
+					{
+						"buffer_size": 877,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								81,
+								81
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
