@@ -265,7 +265,7 @@ function loop() {
 
 	emit();
 
-	webkitRequestAnimationFrame(loop);
+	requestAnimationFrame(loop);
 }
 
 function logic() {
